@@ -1,19 +1,21 @@
 {
-  "name": "Kaooro",
-  "identifier": "com.kaooro.zxd.ac674d02",
-  "subtitle": "Best Sidestore Appstore",
-  "description": "The only repo youll ever need for Sideloading Apps! (Hopefully)",
-  "tintColor": "#e6002a",
+  "name": "My SideStore Repo",
+  "subtitle": "Personal IPA collection",
+  "description": "Apps hosted for sideloading with SideStore.",
+  "iconURL": "https://example.com/repo-icon.png",
   "apps": [
     {
-      "name": "EveeSpotify",
-      "bundleIdentifier": "com.eevee.spotify",
-      "developerName": "Open-Source",
-      "subtitle": "Spotify but better.",
-      "localizedDescription": "Get the Premium experience with Eveespotify",
-      "iconURL": "https://imgs.search.brave.com/jG5S4Z8Kzl35cUcQobT5YexPVOFQ5_AwaaUjAI041nA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMTMvU3Bv/dGlmeS1Mb2dvLVBO/Ry1IRC1JbWFnZS5w/bmc",
-      "tintColor": "#03d758",
-      "size": 80
+      "name": "Sample App",
+      "bundleIdentifier": "com.example.sampleapp",
+      "developerName": "Example Dev",
+      "version": "1.0.0",
+      "versionDate": "2026-11-19",
+      "versionDescription": "Initial release.",
+      "downloadURL": "https://example.com/releases/SampleApp-1.0.0.ipa",
+      "iconURL": "https://example.com/icons/sampleapp.png",
+      "localizedDescription": "A sample iOS app for SideStore.",
+      "size": 25000000
     }
-  ]
+  ],
+  "news": []
 }
