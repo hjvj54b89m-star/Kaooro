@@ -35,5 +35,15 @@
       ]
     }
   ],
-  "news": []
+  "news": [
+    {
+      "title": "Kaooro is Now Live (Beta)",
+      "identifier": "news-beta-launch-001",
+      "caption": "Welcome to the brand-new Kaooro repo! We're currently in beta—more apps and updates are on the way.",
+      "date": "2026-11-19",
+      "tintColor": "#e6002a",
+      "imageURL": "https://i.pinimg.com/1200x/a3/ce/57/a3ce57db4a692cd0148285facc129301.jpg",
+      "notify": true
+    }
+  ]
 }
