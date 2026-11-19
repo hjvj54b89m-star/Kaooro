@@ -3,6 +3,7 @@
   "identifier": "com.kaooro.zxd.ac674d02",
   "subtitle": "Best Sidestore Appstore",
   "description": "The only repo youll ever need for Sideloading Apps! (Hopefully)",
+  "website": "https://hjvj54b89m-star.github.io/Kaooro/main.json",
   "tintColor": "#e6002a",
   "apps": [
     {
@@ -14,6 +15,8 @@
       "iconURL": "https://imgs.search.brave.com/jG5S4Z8Kzl35cUcQobT5YexPVOFQ5_AwaaUjAI041nA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMTMvU3Bv/dGlmeS1Mb2dvLVBO/Ry1IRC1JbWFnZS5w/bmc",
       "tintColor": "#03d758",
       "version": "1.0.0",
+      "versionDate": "2026-01-28",
+      "versionDescription": "hello",
       "downloadURL": "https://ia600604.us.archive.org/33/items/spotify-9.1.6-eevee-spotify-6.2.2-16.1-le-ti/Spotify_9.1.0_EeveeSpotify_6.2.2_16.1.ipa",
       "size": 80
     }
